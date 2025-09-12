@@ -1,0 +1,305 @@
+---
+title: ''
+author: ''
+date: "null"
+output:
+  html_document: default
+  toc: true
+  toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<style>
+body, h4 { font-family: "Arial", sans-serif; }
+h1, h2, h3 { font-family: "Georgia", serif; }
+</style>
+
+
+<div style="display:flex; justify-content:space-between; align-items:center; margin-top: 20px; margin-bottom:0;">
+  <h1 style="margin:0;">Bethany (Beth) Woollacott</h1>
+  <img src="LU.png" alt="Logo" style="width:200px; height:auto; margin-right:15px;">
+  <img src="ceml.png" alt="Logo" style="width:200px; height:auto; margin-right:15px;">
+</div>
+
+<div style="display:flex; justify-content:space-between; align-items:center; margin-top: 0; margin-bottom:20px;">
+  <h4 style="margin:0;">PhD Mathematics Education, Loughborough University
+
+MSc Social Sciences (Education), Loughborough University
+
+BSc Mathematics, Royal Holloway University of London</h4>
+</div>
+
+<nav>
+  <a href="#about">About me</a>
+  <a href="#publications">Publications</a>
+  <a href="#academicpresentations">Presentations</a>
+  <a href="#publicengagement">Public Engagement</a>
+  <a href="#podcasts">Podcasts, Videos and Blogposts</a>
+  <a href="#grants">Grants and Awards</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<style>
+nav a {
+  margin-right: 25px;
+  text-decoration: none;
+  color: #007acc;
+}
+nav a:last-child {
+  margin-right: 0;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+</style>
+
+## About me {#about}
+<img src="graduation.jpg" 
+     alt="Graduation photo" 
+     style="
+       width:200px;          
+       height:200px;       
+       object-fit:cover;     
+       border-radius:50%;    
+       float:right;          
+       margin:0 0 20px 20px;
+     ">
+     
+<img src="cover.jpg" 
+     alt="Hiking photo" 
+     style="
+       width:200px;          
+       height:200px;         
+       object-fit:cover;    
+       border-radius:50%;    
+       float:right;         
+       margin:60px 0 20px 20px;
+     ">
+
+
+I am currently a postdoctoral research associate for the [Centre for Early Mathematics Learning](https://ceml.ac.uk) in the Department of Mathematics Education, Loughborough University. I am a mixed methods researcher with a philosophy embedded in methodological pragmatism. I am also an invited editorial advisory board member for the *International Journal of Mathematical Education in Science and Technology*.
+
+<h3 style="margin:20px, 0, 0, 0;">Research Interests</h3>
+My main research interests are the educational research practice gap, mathematics textbooks, and mathematical reading. 
+
+<h4 style="margin:20px, 0, 0, 0;">The Educational Research-Practice Gap</h4>
+My postdoctoral role predominantly involves investigating how we can improve the effectiveness of communication between researchers and practitioners, working with a team of researchers from Loughborough University, UCL, and the University of Bristol. 
+
+Some of our projects include: (1) framing the research-practice journey, collating research and posing questions to support researchers with creating impact ([Howard-Jones, Woollacott & Gilmore, 2024](https://doi.org/10.1080/02607476.2024.2432942)), (2) creating a programme of research exploring the efficacy of summaries of educational research (e.g., [Woollacott, 2025](https://doi.org/10.1002/rev3.70032)), and (3) investigating the barriers that educators face when engaging with research ([Woollacott, Guy & Lortie-Forgues, under review]()).
+
+<h4 style="margin:20px, 0, 0, 0;">Mathematics Textbooks</h4>
+Mathematics textbooks were the topic of my PhD thesis (an ESRC-funded collaborative studentship with Oxford University Press). I investigated the under-researched area of students' and authors' perceptions of college-level mathematics textbooks in England, using questionnaires, semi-structured interviews and reflexive thematic analysis. I then focussed on mathematical textbook design, using eye-tracking technology and comparative judgement. 
+
+For more detail, you can find my thesis [here](https://repository.lboro.ac.uk/articles/thesis/Reading_mathematics_a_textbook_approach/22341706?file=39753043) or in [Woollacott, Alcock & Inglis (2023)](https://doi.org/10.1080/14794802.2022.2158122) and [Woollacott, Alcock & Inglis (under review)]().
+
+<h4 style="margin:20px, 0, 0, 0;">Mathematical Reading</h4>
+I became interested in mathematical reading during my doctoral research investigating mathematics textbooks. I interviewed and surveyed English college-level students, finding that their self-reported use of their textbook exposition was much higher than anticipated from the existing literature ([Wang, 2021](https://doi.org/10.1080/00220272.2021.1941265), [Pepin & Haggarty, 2001](https://doi.org/10.1007/BF02656616)). Delving deeper, I found a wealth of research discussing the complexity of reading mathematical texts, and the expectation that students would struggle with mathematical reading. 
+
+This led to a programme of research using eye-tracking technology to investigate the cognitive reading processes in mathematics (e.g., [Woollacott & Strohmaier, in press]()). I also regularly give invited practitioner-facing workshops discussing the importance of mathematical reading (see [here](https://lboro.ac.uk/services/lumen/professional-development/reading-maths-is-hard)) and I am currently investigating mathematical oracy in a related research project.
+
+<h3 style="margin:20px, 0, 0, 0;">Additional Interests</h3>
+
+I am a freelance **educational consultant** and have worked with publishers to support their educational STEM resources. Please get in touch if you think I might be able to help you.
+
+I established and led an **Academic Writing Workshop** for the Department of Mathematics Education, Loughborough University (2019--2025). With undergraduate in mathematics, one of the hardest learning curves when entering academia was learning how to write academically. After reading Barbara Sarnecka's *[The Writing Workshop](https://osf.io/n8pc3/)*, I established our department's writing workshop, hoping to create a supportive writing community and improve my academic writing. Over the years, the workshop has grown from strength to strength and is now a permanent feature of our department. Our writing community is something that I am extremely proud of, and our weekly sessions give everyone a chance to dedicate time for writing. I have led various academic writing skills sessions over the years and I am very happy to share resources and tips for anyone intending to set-up something similar in their department.
+
+From 2022--2025, I was the **Director of the Centre for Mathematical Cognition blog** at Loughborough University. This involved leading all aspects of the blog's strategy, content and delivery, editing colleagues' submissions for a public, wide-ranging audience. You can find the blog [here](https://blog.lboro.ac.uk/cmc/).
+
+I also hold a **Level 2 BTEC in Mental Health Awareness** ensuring that I am prepared to support the emotional and mental wellbeing of my colleagues -- something which I believe is extremely important.
+
+<hr> 
+
+## Publications {#publications}
+
+#### Under review and in prep
+
+**Woollacott, B.**, & Strohmaier, A. (in prep). Analysing the impact of linguistic modifications on how students read and learn from their mathematics textbooks. *Proceedings of the 5th Conference of the International Conference of Mathematics Textbooks.* Trondheim, Norway: ICMT 
+
+**Woollacott, B.**, Guy, N., & Lortie-Forgues, H. (under review). Barriers to Interacting with Research for Early Years and Primary Educators
+
+Francome, T., **Woollacott, B.**, Foster, C., Strauss, J., Chen, O., Shore, C., & Jones, I. (under review). Research in mathematics education: The questions teachers ask, and the questions researchers answer.
+
+Simms, S., **Woollacott, B.**, Lortie-Forgues, H., Inglis, M., Foster, C. (under review). How should we communicate research findings to teachers? No difference in teachers’ intentions to use evidence across 512 versions of a research summary. 
+
+Lewis, M., Wortha, F., Lortie-Forgues, H., **Woollacott, B.**, & Foster, C. (under review). A bidimensional model of mathematics educator beliefs
+
+#### 2025
+
+**Woollacott, B.** (2025). Effective research communication in education: Early years practitioners' views of research summaries. *Review of Education, 13*(1). https://doi.org/10.1002/rev3.70032 
+
+#### 2024
+
+Howard-Jones, P., **Woollacott, B.**, & Gilmore, C. (2024). The journey from educational research to classroom practice. *Journal of Education for Teaching, 51*(1), 173–187. https://doi.org/10.1080/02607476.2024.2432942
+
+**Woollacott, B.**, Alcock, L., & Inglis, M. (2024). Does highlighting key information help or hinder mathematical reading? In Evans, T., Marmur, O., Hunter, J., Leach, G., & Jhagroo, J. (Eds.), *Proceedings of the 47th Conference of the International Group for the Psychology of Mathematics Education (Vol. 1)*, p. 238. Auckland, New Zealand: PME. 
+
+Foster, C., **Woollacott, B.**, Francome, T., Shore, C., Peters, C., & Morley, H. (2024). Challenges in applying principles from cognitive science to the design of a school mathematics curriculum. *The Curriculum Journal, 35*(1), 489–513. https://doi.org/10.1002/curj.249 
+
+#### 2023
+
+Howard-Jones, P., **Woollacott, B.**, Sims, S., Moeller, K., Lortie-Forgues, H., Inglis, M., Jay, T., Gilmore, C., Foster. C. (2023). From findings to impact: Implications of current research for researcher‑practitioner communication. In C. Panagiotakopoulos & C. Dimitriadis (Eds.), *Book of abstracts of the 23rd biennial EARLI conference for research on learning and instruction*, p. 123. Thessaloniki, Greece: EARLI & Aristotle University of Thessaloniki. https://www.earli.org/assets/files/EARLI2023-BOA-280823.pdf 
+
+**Woollacott, B.**, Alcock, L., & Inglis, M. (2023). The spatial contiguity principle in mathematics textbooks. *Research in Mathematics Education, 26*(3), 386–406. https://doi.org/10.1080/14794802.2022.2158122
+
+#### 2021
+
+**Woollacott, B.**, Alcock, L., & Inglis, M. (2021). The spatial contiguity principle in mathematics textbooks. *Proceedings of the 44th Conference of the International Group for the Psychology of Mathematics Education*, virtual, 4, 299-306
+
+#### 2019
+
+**Woollacott, B.**, Alcock, L., & Inglis, M. (2019). A mathematics college textbook: design intentions and reading practice. *Proceedings of the Third International Conference of Mathematics Textbook Research and Development*, Germany, 391-391. 
+
+Van Dooren, W., Christou, K., Depaepe, F., Inglis, M., Määttä, S., McMullen, J., Obersteiner, A., Heck Ribeiras, P., Van Hoof, J., Triandafyllou, M., Vamvakoussi, X., Verschaffel, L., Wittmann, G., & **Woollacott, B.** (2019). Tackling the natural number bias – A comparative textbook analysis. *Book of abstracts of the 18th biennial EARLI conference for research on learning and instruction*, p. 84. Aachen, Germany.
+
+<hr>
+
+## Presentations {#academicpresentations}
+
+### Invited talks
+Woollacott, B. *Using CJ to Investigate Textbook Design.* Comparative Judgement Consortium Day Meeting, University of Birmingham (UK), January 2025.
+
+Woollacott, B. *Insights into Mathematics Reading via Mathematics Textbooks.* Technology-Enhanced Mathematical Sciences Education (TEMSE) seminar series, University of Edinburgh (UK), March 2025.
+
+Woollacott, B. *Barriers to interacting with research for Early Years and Primary Educators.* Teacher Education and Educational Studies Research Cluster (TERIC) seminar series, University of Derby (UK), April 2025.
+
+### Conference presentations
+#### 2025
+Woollacott, B., & Strohmaier, A. Analysing the impact of linguistic modifications on how students read and learn from their mathematics textbooks. *The 5th International Conference of Mathematics Textbooks*, Trondheim (Norway), June 2025.
+
+#### 2024
+Woollacott, B., Alcock, L., & Inglis, M. Identifying key information: skill or design feature? *British Society for Research into Learning Mathematics (BSRLM) Summer Conference*, Loughborough University (UK), June 2024.
+
+Woollacott, B., Alcock, L., & Inglis, M. Does highlighting key information help or hinder mathematical reading? *The 47th Conference of the International Group for the Psychology of Mathematics Education*, Auckland (New Zealand), July 2024. 
+
+Woollacott, B., Guy, L., & Lortie-Forgues, H. Barriers to Interacting with Research for Early Years Practitioners. *British Educational Research Association (BERA) Conference and World Education Research Association (WERA) Focal Meeting*, University of Manchester (UK), September 2024.
+
+Woollacott, B., Guy, L., & Lortie-Forgues, H. Understanding the Challenges that Early Years and Primary Practitioners Face when Interacting with Research. *British Society for Research into Learning Mathematics (BSRLM) Autumn Conference*, University of Southampton (UK), November 2024.
+
+#### 2023
+Woollacott, B. Early Years practitioners’ perspectives on effective communication of research. *British Society for Research into Learning Mathematics (BSRLM) Spring Conference*, IOE University College London (UK), March 2023. 
+
+Woollacott, B., Alcock, L., & Inglis, M. The Spatial Contiguity Principle in Mathematics Education. *Mathematics and Cognition Learning Society (MCLS) 6th Annual Conference*, Loughborough University (UK), June 2023. 
+
+Woollacott, B., & Strohmaier, A. Emotions during reading of mathematical texts: A detailed multi-method process analysis. *Scientific Research Community Meeting*, Loughborough University (UK), June 2023.
+
+Woollacott, B. Early Years practitioners’ perspectives on effective communication of research. *British Educational Research Association (BERA) Conference*, Aston University (UK), September 2023.
+
+#### 2022
+Woollacott, B. Research to practice: can we do it? *Loughborough University Annual Research Conference*, Loughborough University (UK), December 2022.
+
+#### 2021
+Woollacott, B., Alcock, L., & Inglis, M. The spatial contiguity principle in mathematics textbooks. *The 44th Conference of the International Group for the Psychology of Mathematics Education*, virtual, June 2021.
+
+#### 2020
+Woollacott, B. A Level students' self-reported use and perceptions of their mathematics textbooks. *British Society for Research into Learning Mathematics (BSRLM) Spring Conference*, University of Cambridge (UK), March 2020. 
+
+#### 2019
+Woollacott, B., Alcock, L., & Inglis, M. A mathematics college textbook: design intentions and reading practice. *The 3rd International Conference of Mathematics Textbook Research and Development*, Paderborn (Germany), June 2019.
+
+<hr>
+
+## Public Engagement {#publicengagement}
+
+### Invited Talks and Workshops
+
+#### 2024
+Woollacott, B. Reading in Mathematics. *North West One Maths Hubs Local Leaders in Mathematics Education Day Conference (National Centre for Excellence in the Teaching of Mathematics)*, Manchester (UK), June 2024.
+
+Woollacott, B. Exploring and addressing the challenge of reading mathematics. *The International Group for the Psychology of Mathematics Education Teacher Conference*, University of Auckland (New Zealand), July 2024.
+
+Woollacott, B. Through the Lens: Insights into Mathematics Textbooks and Mathematical Reading. *The Institute of Mathematics and its Applications: East Midlands Branch*, University of Nottingham (UK), September 2024. 
+
+#### 2023
+
+Woollacott, B. “Reading Maths is Hard”. *Co-op Academies Trust Joint Primary and Secondary Mathematics Day Conference*, Manchester (UK), November 2023.
+
+### School talks
+
+Woollacott, B. Mathematical reading, explanation of a PhD and women in academia. *St. Edward’s School*, Oxford (UK), July 2022.
+
+Woollacott, B. What I do and how I got here. *John Port Spencer Academy*, Derby (UK), June 2022.
+
+Woollacott, B. The Spatial Contiguity Principle in Mathematics Textbooks. *Headington School* (Oxford, UK), online, June 2021.
+
+Woollacott, B. My Journey with a Maths Degree. *Woodbrook Vale School*, Loughborough (UK), January 2020.
+
+Woollacott, B. My Research and How I Got Here. *West Buckland School*, North Devon (UK), February 2020.
+
+<hr>
+
+## Podcasts, Videos, and Blogposts {#podcasts}
+
+### Podcasts and videos
+
+**PhDs and Maths Textbooks** -- Mr Barton Maths Podcast, available [here](https://mrbartonmaths.com/blog/research-in-action-9-phds-and-maths-textbooks-with-beth-woollacott/)
+
+**"Reading Maths is Hard"** -- Professional Development video for the Loughborough University Mathematics Education Network, available [here](https://www.lboro.ac.uk/services/lumen/professional-development/reading-maths-is-hard/)
+
+### Blogposts
+
+**Woollacott, B.** (2025, April 3). How Early Years practitioners engage with research summaries. Centre for Mathematical Cognition Blog, Loughborough University. https://blog.lboro.ac.uk/cmc/2025/04/03/bridging-the-gap-how-early-years-practitioners-engage-with-research-summaries/ 
+
+Foster, C., & **Woollacott, B.** (2024, May 8). Using principles from cognitive science to design a school mathematics curriculum. British Educational Research Association Blog. https://www.bera.ac.uk/blog/using-principles-from-cognitive-science-to-design-a-school-mathematics-curriculum 
+
+**Woollacott, B.** (2023, June 14). The future of maths textbook design. Oxford Education Blog. https://educationblog.oup.com/secondary/the-future-of-maths-textbook-design-bethany-woollacott  
+2021
+
+**Woollacott, B.** (2021, February 1). How writing workshops have lifted lockdown. Centre for Mathematical Cognition Blog, Loughborough University. https://blog.lboro.ac.uk/cmc/2021/02/01/how-writing-workshops-have-lifted-lockdown/ 
+
+<hr>
+
+## Grants and Awards {#grants}
+
+<img src="phdaward.jpg" 
+     alt="Award photo" 
+     style="
+       width:200px;          
+       height:200px;         
+       object-fit:cover;    
+       border-radius:50%;    
+       float:right;       
+       margin:0 0 20px 20px; 
+     ">
+     
+### Grants
+
+**Reading to Learn Mathematics.** (under review). *Swedish Research Council Research Grants Open Call 2025.*
+
+**Emotions during reading of mathematical texts: A detailed multi-method process analysis.** (2023). *British Academy Small Grant from the Centre for Mathematical Cognition, Loughborough University.*
+
+**Learning post-compulsory mathematics by reading.** (2017). *Economic and Social Research Council Doctoral Training Partnership 3+1 Collaborative Studentship Award.*
+
+### Awards
+
+**Positive Impact on Wellbeing Award**, School of Science Awards 2025, Loughborough University
+
+**Inspirational Women Award**, Loughborough University Women's Network 2025 Award, Loughborough University
+
+**Open Research Excellence Award**, Open Research Community, Loughborough University
+
+**Best Postgraduate Demonstrator Award** -- Second Place, School of Science Awards 2018, Loughborough University
+
+<hr>
+
+## Contact
+
+Please feel free to use the contact information below -- I really enjoy presenting my research to varied audiences, hearing feedback and sharing ideas so please get in touch if you would like me to come and visit your group. 
+
+
+<i class="bi bi-envelope-fill"></i> Email: [b.woollacott@lboro.ac.uk](mailto:b.woollacott@lboro.ac.uk)
+
+<i class="bi bi-twitter"></i> Twitter: [B_Woollacott](https://x.com/B_Woollacott)
+
+<i class="bi bi-linkedin"></i> LinkedIn: [Bethany Woollacott](https://www.linkedin.com/in/beth-woollacott-3185b3123/)
+
+<img src="bluesky.png" alt="Bluesky" style="height:12px; width:auto;"> Bluesky: [@bethwoollacott.bsky.social](https://bsky.app/profile/bethwoollacott.bsky.social)
+
+<hr>
+
+<div style="text-align:center; margin:20px 0;">
+  <img src="LU.png" alt="Logo" style="width:200px; height:auto; margin: 20px 20px 40px 20px;">
+  <img src="ceml.png" alt="Logo" style="width:200px; height:auto; margin: 20px 20px 40px 20px;">
+</div>
