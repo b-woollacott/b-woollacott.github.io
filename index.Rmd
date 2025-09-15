@@ -3,10 +3,10 @@ title: ''
 author: ''
 date: 'null'
 output:
-  pdf_document: default
+  html_document: default
   toc: true
   toc_float: true
-  html_document: default
+  pdf_document: default
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 
@@ -95,7 +95,7 @@ Some of our projects include: (1) framing the research-practice journey, collati
 <h4 style="margin:20px, 0, 0, 0;">Mathematics Textbooks</h4>
 Mathematics textbooks were the topic of my PhD thesis (an ESRC-funded collaborative studentship with Oxford University Press). I investigated the under-researched area of students' and authors' perceptions of college-level mathematics textbooks in England, using questionnaires, semi-structured interviews and reflexive thematic analysis. I then focussed on mathematical textbook design, using eye-tracking technology and comparative judgement. 
 
-For more detail, you can find my thesis [here](https://repository.lboro.ac.uk/articles/thesis/Reading_mathematics_a_textbook_approach/22341706?file=39753043) or in [Woollacott, Alcock & Inglis (2023)](https://doi.org/10.1080/14794802.2022.2158122)]
+For more detail, you can find my thesis [here](https://repository.lboro.ac.uk/articles/thesis/Reading_mathematics_a_textbook_approach/22341706?file=39753043) or in [Woollacott, Alcock & Inglis (2023)](https://doi.org/10.1080/14794802.2022.2158122).
 
 <h4 style="margin:20px, 0, 0, 0;">Mathematical Reading</h4>
 I became interested in mathematical reading during my doctoral research investigating mathematics textbooks. I interviewed and surveyed English college-level students, finding that their self-reported use of their textbook exposition was much higher than anticipated from the existing literature ([Wang, 2021](https://doi.org/10.1080/00220272.2021.1941265), [Pepin & Haggarty, 2001](https://doi.org/10.1007/BF02656616)). Delving deeper, I found a wealth of research discussing the complexity of reading mathematical texts and the expectation that students would struggle with mathematical reading. 
