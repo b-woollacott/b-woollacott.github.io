@@ -1,12 +1,14 @@
 ---
 title: ''
 author: ''
-date: "null"
+date: 'null'
 output:
-  html_document: default
+  pdf_document: default
   toc: true
   toc_float: true
+  html_document: default
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -93,18 +95,18 @@ Some of our projects include: (1) framing the research-practice journey, collati
 <h4 style="margin:20px, 0, 0, 0;">Mathematics Textbooks</h4>
 Mathematics textbooks were the topic of my PhD thesis (an ESRC-funded collaborative studentship with Oxford University Press). I investigated the under-researched area of students' and authors' perceptions of college-level mathematics textbooks in England, using questionnaires, semi-structured interviews and reflexive thematic analysis. I then focussed on mathematical textbook design, using eye-tracking technology and comparative judgement. 
 
-For more detail, you can find my thesis [here](https://repository.lboro.ac.uk/articles/thesis/Reading_mathematics_a_textbook_approach/22341706?file=39753043) or in [Woollacott, Alcock & Inglis (2023)](https://doi.org/10.1080/14794802.2022.2158122) and [Woollacott, Alcock & Inglis (under review)]().
+For more detail, you can find my thesis [here](https://repository.lboro.ac.uk/articles/thesis/Reading_mathematics_a_textbook_approach/22341706?file=39753043) or in [Woollacott, Alcock & Inglis (2023)](https://doi.org/10.1080/14794802.2022.2158122)]
 
 <h4 style="margin:20px, 0, 0, 0;">Mathematical Reading</h4>
-I became interested in mathematical reading during my doctoral research investigating mathematics textbooks. I interviewed and surveyed English college-level students, finding that their self-reported use of their textbook exposition was much higher than anticipated from the existing literature ([Wang, 2021](https://doi.org/10.1080/00220272.2021.1941265), [Pepin & Haggarty, 2001](https://doi.org/10.1007/BF02656616)). Delving deeper, I found a wealth of research discussing the complexity of reading mathematical texts, and the expectation that students would struggle with mathematical reading. 
+I became interested in mathematical reading during my doctoral research investigating mathematics textbooks. I interviewed and surveyed English college-level students, finding that their self-reported use of their textbook exposition was much higher than anticipated from the existing literature ([Wang, 2021](https://doi.org/10.1080/00220272.2021.1941265), [Pepin & Haggarty, 2001](https://doi.org/10.1007/BF02656616)). Delving deeper, I found a wealth of research discussing the complexity of reading mathematical texts and the expectation that students would struggle with mathematical reading. 
 
-This led to a programme of research using eye-tracking technology to investigate the cognitive reading processes in mathematics (e.g., [Woollacott & Strohmaier, in press]()). I also regularly give invited practitioner-facing workshops discussing the importance of mathematical reading (see [here](https://lboro.ac.uk/services/lumen/professional-development/reading-maths-is-hard)) and I am currently investigating mathematical oracy in a related research project.
+This led to a programme of research using eye-tracking technology to investigate the cognitive reading processes in mathematics (e.g., [Woollacott & Strohmaier, in press]()). I am also regularly invited to deliver practitioner-facing workshops discussing the importance of mathematical reading (see [here](https://lboro.ac.uk/services/lumen/professional-development/reading-maths-is-hard)) and I am currently investigating mathematical oracy in a related research project.
 
 <h3 style="margin:20px, 0, 0, 0;">Additional Interests</h3>
 
 I am a freelance **educational consultant** and have worked with publishers to support their educational STEM resources. Please get in touch if you think I might be able to help you.
 
-I established and led an **Academic Writing Workshop** for the Department of Mathematics Education, Loughborough University (2019--2025). With undergraduate in mathematics, one of the hardest learning curves when entering academia was learning how to write academically. After reading Barbara Sarnecka's *[The Writing Workshop](https://osf.io/n8pc3/)*, I established our department's writing workshop, hoping to create a supportive writing community and improve my academic writing. Over the years, the workshop has grown from strength to strength and is now a permanent feature of our department. Our writing community is something that I am extremely proud of, and our weekly sessions give everyone a chance to dedicate time for writing. I have led various academic writing skills sessions over the years and I am very happy to share resources and tips for anyone intending to set-up something similar in their department.
+I established and led an **Academic Writing Workshop** for the Department of Mathematics Education, Loughborough University (2019--2025). With an undergraduate in mathematics, I found that writing academically was one of the hardest learning curves when entering academia. After reading Barbara Sarnecka's *[The Writing Workshop](https://osf.io/n8pc3/)*, I established our department's writing workshop, hoping to create a supportive writing community and improve my academic writing. Over the years, the workshop has grown from strength to strength and is now a permanent feature of our department. Our writing community is something that I am extremely proud of, and our weekly sessions give everyone a chance to dedicate time for writing. I have led various academic writing skills sessions over the years and I am very happy to share resources and tips for anyone intending to establish something similar in their department.
 
 From 2022--2025, I was the **Director of the Centre for Mathematical Cognition blog** at Loughborough University. This involved leading all aspects of the blog's strategy, content and delivery, editing colleagues' submissions for a public, wide-ranging audience. You can find the blog [here](https://blog.lboro.ac.uk/cmc/).
 
@@ -116,15 +118,15 @@ I also hold a **Level 2 BTEC in Mental Health Awareness** ensuring that I am pre
 
 #### Under review and in prep
 
-**Woollacott, B.**, & Strohmaier, A. (in prep). Analysing the impact of linguistic modifications on how students read and learn from their mathematics textbooks. *Proceedings of the 5th Conference of the International Conference of Mathematics Textbooks.* Trondheim, Norway: ICMT 
+**Woollacott, B.**, & Strohmaier, A. (in prep). Analysing the impact of linguistic modifications on how students read and learn from their mathematics textbooks. *Proceedings of the 5th Conference of the International Conference of Mathematics Textbooks.* Trondheim, Norway: ICMT. 
 
-**Woollacott, B.**, Guy, N., & Lortie-Forgues, H. (under review). Barriers to Interacting with Research for Early Years and Primary Educators
+**Woollacott, B.**, Guy, N., & Lortie-Forgues, H. (under review). Barriers to Interacting with Research for Early Years and Primary Educators.
 
 Francome, T., **Woollacott, B.**, Foster, C., Strauss, J., Chen, O., Shore, C., & Jones, I. (under review). Research in mathematics education: The questions teachers ask, and the questions researchers answer.
 
 Simms, S., **Woollacott, B.**, Lortie-Forgues, H., Inglis, M., Foster, C. (under review). How should we communicate research findings to teachers? No difference in teachers’ intentions to use evidence across 512 versions of a research summary. 
 
-Lewis, M., Wortha, F., Lortie-Forgues, H., **Woollacott, B.**, & Foster, C. (under review). A bidimensional model of mathematics educator beliefs
+Lewis, M., Wortha, F., Lortie-Forgues, H., **Woollacott, B.**, & Foster, C. (under review). A bidimensional model of mathematics educator beliefs.
 
 #### 2025
 
@@ -146,7 +148,7 @@ Howard-Jones, P., **Woollacott, B.**, Sims, S., Moeller, K., Lortie-Forgues, H.,
 
 #### 2021
 
-**Woollacott, B.**, Alcock, L., & Inglis, M. (2021). The spatial contiguity principle in mathematics textbooks. *Proceedings of the 44th Conference of the International Group for the Psychology of Mathematics Education*, virtual, 4, 299-306
+**Woollacott, B.**, Alcock, L., & Inglis, M. (2021). The spatial contiguity principle in mathematics textbooks. *Proceedings of the 44th Conference of the International Group for the Psychology of Mathematics Education*, virtual, 4, 299-306.
 
 #### 2019
 
@@ -234,9 +236,9 @@ Woollacott, B. My Research and How I Got Here. *West Buckland School*, North Dev
 
 ### Podcasts and videos
 
-**PhDs and Maths Textbooks** -- Mr Barton Maths Podcast, available [here](https://mrbartonmaths.com/blog/research-in-action-9-phds-and-maths-textbooks-with-beth-woollacott/)
+**PhDs and Maths Textbooks** -- Mr Barton Maths Podcast, available [here](https://mrbartonmaths.com/blog/research-in-action-9-phds-and-maths-textbooks-with-beth-woollacott/).
 
-**"Reading Maths is Hard"** -- Professional Development video for the Loughborough University Mathematics Education Network, available [here](https://www.lboro.ac.uk/services/lumen/professional-development/reading-maths-is-hard/)
+**"Reading Maths is Hard"** -- Professional Development video for the Loughborough University Mathematics Education Network, available [here](https://www.lboro.ac.uk/services/lumen/professional-development/reading-maths-is-hard/).
 
 ### Blogposts
 
@@ -245,7 +247,6 @@ Woollacott, B. My Research and How I Got Here. *West Buckland School*, North Dev
 Foster, C., & **Woollacott, B.** (2024, May 8). Using principles from cognitive science to design a school mathematics curriculum. British Educational Research Association Blog. https://www.bera.ac.uk/blog/using-principles-from-cognitive-science-to-design-a-school-mathematics-curriculum 
 
 **Woollacott, B.** (2023, June 14). The future of maths textbook design. Oxford Education Blog. https://educationblog.oup.com/secondary/the-future-of-maths-textbook-design-bethany-woollacott  
-2021
 
 **Woollacott, B.** (2021, February 1). How writing workshops have lifted lockdown. Centre for Mathematical Cognition Blog, Loughborough University. https://blog.lboro.ac.uk/cmc/2021/02/01/how-writing-workshops-have-lifted-lockdown/ 
 
@@ -274,13 +275,13 @@ Foster, C., & **Woollacott, B.** (2024, May 8). Using principles from cognitive 
 
 ### Awards
 
-**Positive Impact on Wellbeing Award**, School of Science Awards 2025, Loughborough University
+**Positive Impact on Wellbeing Award**, School of Science Awards 2025, Loughborough University.
 
-**Inspirational Women Award**, Loughborough University Women's Network 2025 Award, Loughborough University
+**Inspirational Women Award**, Loughborough University Women's Network 2025 Award, Loughborough University.
 
-**Open Research Excellence Award**, Open Research Community, Loughborough University
+**Open Research Excellence Award**, Open Research Community Awards 2022, Loughborough University.
 
-**Best Postgraduate Demonstrator Award** -- Second Place, School of Science Awards 2018, Loughborough University
+**Best Postgraduate Demonstrator Award** -- Second Place, School of Science Awards 2018, Loughborough University.
 
 <hr>
 
@@ -288,12 +289,11 @@ Foster, C., & **Woollacott, B.** (2024, May 8). Using principles from cognitive 
 
 Please feel free to use the contact information below -- I really enjoy presenting my research to varied audiences, hearing feedback and sharing ideas so please get in touch if you would like me to come and visit your group. 
 
+<img src="mail.jpg" alt="Email" style="height:9px; width:auto;"> Email: [b.woollacott@lboro.ac.uk](mailto:b.woollacott@lboro.ac.uk)
 
-<i class="bi bi-envelope-fill"></i> Email: [b.woollacott@lboro.ac.uk](mailto:b.woollacott@lboro.ac.uk)
+<img src="twitter.png" alt="Twitter" style="height:13px; width:auto;"> Twitter: [B_Woollacott](https://x.com/B_Woollacott)
 
-<i class="bi bi-twitter"></i> Twitter: [B_Woollacott](https://x.com/B_Woollacott)
-
-<i class="bi bi-linkedin"></i> LinkedIn: [Bethany Woollacott](https://www.linkedin.com/in/beth-woollacott-3185b3123/)
+<img src="linkedin.png" alt="LinkedIn" style="height:15px; width:auto;"> LinkedIn: [Bethany Woollacott](https://www.linkedin.com/in/beth-woollacott-3185b3123/)
 
 <img src="bluesky.png" alt="Bluesky" style="height:12px; width:auto;"> Bluesky: [@bethwoollacott.bsky.social](https://bsky.app/profile/bethwoollacott.bsky.social)
 
